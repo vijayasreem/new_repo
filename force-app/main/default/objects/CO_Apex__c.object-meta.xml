@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <nameField>
+        <label>NameField</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </nameField>
+    <fields>
+        <fullName>folderStructure</fullName>
+        <label>Folder Structure</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>multiComponentSelection</fullName>
+        <label>Multi Component Selection</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>customObjectsCreation</fullName>
+        <label>Custom Objects Creation</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>lwcComponentsCreation</fullName>
+        <label>LWC Components Creation</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>apexLwcConnectivity</fullName>
+        <label>Apex LWC Connectivity</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>unitTestsImplementation</fullName>
+        <label>Unit Tests Implementation</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>sandboxIntegration</fullName>
+        <label>Sandbox Integration</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>userStoriesExecution</fullName>
+        <label>User Stories Execution</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>newFunctionalityMerging</fullName>
+        <label>New Functionality Merging</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>generatedCodeDeployment</fullName>
+        <label>Generated Code Deployment</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>lambdaFunctionDevelopment</fullName>
+        <label>Lambda Function Development</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+    <fields>
+        <fullName>pilotTestingAccess</fullName>
+        <label>Pilot Testing Access</label>
+        <type>Text</type>
+        <length>255</length>
+        <required>true</required>
+    </fields>
+</CustomObject>

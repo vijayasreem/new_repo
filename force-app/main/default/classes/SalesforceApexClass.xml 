@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>45.0</apiVersion>
+    <status>Active</status>
+    <body>public class FolderStructure {
+    }</body>
+    <userStory>Implementing the folder structure - completed</userStory>
+    <userStory>Implementation of multiple component selection (FE and BE)</userStory>
+    <userStory>Custom Objects creation with metadata</userStory>
+    <userStory>Creation of multiple components in lwc and connectivity between them</userStory>
+    <userStory>Connectivity between Apex classes and lwc components</userStory>
+    <userStory>Unit Tests implementation</userStory>
+    <userStory>Sandbox integration</userStory>
+    <userStory>Sequence of user stories execution</userStory>
+    <userStory>Merging the new functionality into the existing components/file</userStory>
+    <userStory>Deployment process for generated code</userStory>
+    <userStory>AWS Lambda to containerized lambda function development</userStory>
+    <userStory>All the user stories related code should be in single project</userStory>
+    <userStory>This part will be deployed in platform today</userStory>
+    <userStory>Application access for pilot testing</userStory>
+</ApexClass>
